@@ -5,7 +5,7 @@ mera chota bro : Wasil
 
 He is a don 🤫🤫🤫🤫🤫🤫🤫🤫
 */
-alert("Making this for Bday of You : Wasil\nYou are a Great Men 🤫🤫   \n You are a Don You will definetly won ");
+alert("Making this for Bday of You : You are a Great Girl 🤫🤫   \n You are a Don You will definetly won , i am late for wishing you");
 var force; 
 var firework = [];
 function setup() {
