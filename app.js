@@ -30,7 +30,7 @@ function draw() {
     }
     textSize(30)
     textAlign(CENTER)
-    text("Happy Wala Birthday \n 36 Bhaii ❤️❤️❤️ ", width / 2, height / 2)
+    text("Happy Wala Birthday \n </br> 36 Bhaii ❤️❤️❤️ ", width / 2, height / 2)
 }
 function particle(x, y, col, firework) {
     this.opacity = 255;
