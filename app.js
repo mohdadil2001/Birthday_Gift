@@ -5,7 +5,7 @@ mera chota bro : Wasil
 
 He is a don 🤫🤫🤫🤫🤫🤫🤫🤫
 */
-alert("Making this for Bday of You : You are a Great Girl 🤫🤫   \n You are a Don You will definetly won , i am late for wishing you");
+alert("Making this for Bday of You : Mr. 36 Bhaii.. 🤫🤫   \n You are a Don You will definetly won in Your Life \n Wishing you an awesome day with good luck on your way. ");
 var force; 
 var firework = [];
 function setup() {
@@ -30,7 +30,7 @@ function draw() {
     }
     textSize(30)
     textAlign(CENTER)
-    text("Happy Birthday \n Aamina \n Sorry I am late wihing You ", width / 2, height / 2)
+    text("Happy Wala Birthday \n 36 Bhaii ❤️❤️❤️ ", width / 2, height / 2)
 }
 function particle(x, y, col, firework) {
     this.opacity = 255;
