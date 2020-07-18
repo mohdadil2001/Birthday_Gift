@@ -30,7 +30,7 @@ function draw() {
     }
     textSize(30)
     textAlign(CENTER)
-    text(" I made it for You By heart \n Happy Wala Birthday\n Mushkan ❤️❤️❤️ ", width / 2, height / 2)
+    text(" I made it for You By heart \n Happy Wala Birthday\n Mushkan\n from side Cyber_Boy_India ", width / 2, height / 2)
 }
 function particle(x, y, col, firework) {
     this.opacity = 255;
